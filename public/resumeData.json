@@ -1,0 +1,201 @@
+{
+  "main": {
+    "name":"Elshadai Tegegn",
+    "description":"A software engineering student, an entrepreneur, a basketball player, and a community leader",
+    "image":"profilepic.jpg",
+    "bio":"I am a full-stack web developer and mobile application developer. I have mostly worked on NodeJS, ReactJS, Django, and Flask. I love mobile application development using Flutter. I also have the expertise of development in Android using either Java or Kotlin. I have also worked on consultation in technology. My hobbies are reading, playing basketball, coding, and teaching.",
+    "contactmessage":"Contact me ;)",
+    "email": "elshadaikassutegegn@gmail.com",
+    "phone": "+251-911-341088",
+    "address":{
+      "street":"Jacross",
+      "city":"Addis Ababa",
+      "state":"Ethiopia",
+      "zip": "27023"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/pour_qua",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/elshadai-tegegn/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/pour_qua",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ElshadaiK",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Programming Skills",
+    "education":[
+      {
+        "school":"Addis Ababa University",
+        "degree":"Bachelors in Software engineering",
+        "graduated":"August 2023",
+        "description":"Working on extracurricular activities on campus: ITSC Inspire (Event Organizer), Yellow Movement(Project Coordinator), Chalk-the-talk (Project Director), GDG Addis & WTM Addis (Event Organizer)"
+      },
+      {
+        "school":"ShARE Leadership Program",
+        "degree":"Certificate of Studies",
+        "graduated":"May 2022",
+        "description":"Program leadership candidate, President of 2020/21 ShARE leadership program, Took entrepreneurship, leadership, consultation, and communication courses"
+      },
+      {
+        "school":"Gebeya Inc",
+        "degree":"Certificate of Studies",
+        "graduated":"November 2020",
+        "description":"Earned scholarship on Second Cohort Women Intake Program, funded by IFC, and took NodeJS programming with very great distinction completion"
+      }
+    ],
+    "work":[
+      {
+        "company":"Huawei",
+        "title":"Campus Ambassador ",
+        "years":"April 2021 - Present"
+        },
+      {
+        "company":"AIESEC in Ethiopia",
+        "title":"Talent Manager",
+        "years":"February 2021 - Present"
+      },
+      {
+        "company":"Gebeya Inc",
+        "title":"Talent ",
+        "years":"Jan 2021 - Present"
+      },
+      {
+        "company":"Upwork",
+        "title":"Freelancer ",
+        "years":"Jan 2021 - Present",
+        "description":"Worked on ReactJS, Android, and now working on Django and Flutter application"
+      },
+      {
+        "company":"NileStream",
+        "title":"Co-founder & Chief Operating Officer",
+        "years":"Aug 2020 - Present"
+      },
+      {
+        "company":"Knovuslab",
+        "title":"Co-founder",
+        "years":"June 2020 - Present"
+      },
+      {
+        "company":"ICog Labs software consultancy",
+        "title":"Intern",
+        "years":"June 2020 - September 2020",
+        "description": "Worked as an Operational Support Intern on Project Anyone Can Code"
+      },
+      {
+        "company":"Girls Can Code",
+        "title":"Volunteer Instructor",
+        "years":"June 2019 - September 2019",
+        "description": "Volunteered as a coding instructor for government school female students during 2019 summer. Taught Scratch programming, and Python"
+      }
+    ],
+    "language": [
+      {
+        "name":"Amharic",
+        "level":"100%"
+      },
+      {
+        "name":"English",
+        "level":"100%"
+      },
+      {
+        "name":"French",
+        "level":"90%"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"Android",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"96%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"Flutter",
+        "level":"80%"
+      },
+      {
+        "name":"Django",
+        "level":"95%"
+      },
+      {
+        "name":"Flask",
+        "level":"93%"
+      },
+      {
+        "name":"WordPress",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Shega",
+        "category":"A start-up news platform",
+        "image":"01.png",
+        "url":"https://www.shega.co"
+      },
+      {
+        "title":"Book review application",
+        "category":"A Flask based book review application",
+        "image":"02.png",
+        "url":"https://reader-book-review-webapp.herokuapp.com/home"
+      },
+      {
+        "title":"HELSB Portal",
+        "category":"A react based student scholarship portal",
+        "image":"03.png",
+        "url":"https://shielded-spire-04312.herokuapp.com/admin/dashboard"
+      },
+      {
+        "title":"Motorride Application",
+        "category":"A ride hailing application focusing on motorcycles",
+        "image":"04.webp",
+        "url":"https://play.google.com/store/apps/details?id=com.knovuslab.motorrideuser&hl=en&gl=US"
+      }
+    ]
+  }
+}
