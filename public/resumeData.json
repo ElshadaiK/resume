@@ -197,16 +197,16 @@
         "url":"https://el-delicios-restaurant-app.herokuapp.com/"
       },
       {
-        "title":"Motorride Application",
-        "category":"A ride hailing application focusing on motorcycles",
-        "image":"04.webp",
-        "url":"https://play.google.com/store/apps/details?id=com.knovuslab.motorrideuser&hl=en&gl=US"
-      },
-      {
         "title":"MyNote",
         "category":"A simple note taking application",
         "image":"06.jpg",
         "url":"https://github.com/ElshadaiK/MyNote"
+      },
+      {
+        "title":"Motorride Application",
+        "category":"A ride hailing application focusing on motorcycles",
+        "image":"04.webp",
+        "url":"https://play.google.com/store/apps/details?id=com.knovuslab.motorrideuser&hl=en&gl=US"
       },
       {
         "title":"Driveway Pro",
