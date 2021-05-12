@@ -191,16 +191,16 @@
         "url":"https://shielded-spire-04312.herokuapp.com/admin/dashboard"
       },
       {
-        "title":"Motorride Application",
-        "category":"A ride hailing application focusing on motorcycles",
-        "image":"04.webp",
-        "url":"https://play.google.com/store/apps/details?id=com.knovuslab.motorrideuser&hl=en&gl=US"
-      },
-      {
         "title":"El-delicious Restaurant Webapp",
         "category":"A restaurant website with delivery ordering feature",
         "image":"05.png",
         "url":"https://el-delicios-restaurant-app.herokuapp.com/"
+      },
+      {
+        "title":"Motorride Application",
+        "category":"A ride hailing application focusing on motorcycles",
+        "image":"04.webp",
+        "url":"https://play.google.com/store/apps/details?id=com.knovuslab.motorrideuser&hl=en&gl=US"
       },
       {
         "title":"MyNote",
@@ -211,13 +211,13 @@
       {
         "title":"Driveway Pro",
         "category":"A car parking application",
-        "image":"07.png",
+        "image":"07.jpg",
         "url":"https://github.com/ElshadaiK/Driveway-Pro-MobileApp"
       },
       {
         "title":"GADS Leaderboard",
         "category":"A leaderboard application for Google African Developers Scholarship Program",
-        "image":"08.png",
+        "image":"08.jpg",
         "url":"https://github.com/ElshadaiK/GADS-Leaderboard"
       },
       {
